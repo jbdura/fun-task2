@@ -12,6 +12,22 @@
 /* Padding, optional */
 /* }
 } */
+.head {
+margin-top: 200px;  
+align-items: center;
+}
+
+
+.button-thing {
+  text-align: center;
+  padding: 200px;
+  font-weight: bold;
+  width: 796.522px;
+  height: 111px;
+  flex-shrink: 0;
+  padding-bottom: 20px;
+}
+
 
 .round {
   border-radius: 30px;
